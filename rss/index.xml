@@ -5,7 +5,7 @@
     <title>流动森林</title>
     <itunes:subtitle>谢谢收听～</itunes:subtitle>
     <link>http://nomadfroest.life</link>
-    <atom:link href="http://nomadforest.com/rss" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://nomadforest.life/rss" rel="self" type="application/rss+xml"/>
     <description>去没风的地方。去做风吧，做被定义的风～</description>
     <language>zh-CN</language>
     <copyright>&#xA9; 2023 nomadforest.life</copyright>
@@ -37,9 +37,9 @@
         <p>1. Walking all day, by Graham Coxon</p>
         ]]>
       </description>
-      <link>https//nomadforest.com/001</link>
+      <link>http://nomadforest.life/001</link>
       <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">https//nomadforest.com/001</guid>
+      <guid isPermaLink="false">001</guid>
       <author>小林、小树</author>
       <pubDate>Wed, 26 Apr 2023 17:00:00 +0800</pubDate>
       <enclosure type="audio/mpeg" url="http://nomad-forest.test.upcdn.net/001/audio.mp3"/>
