@@ -23,17 +23,23 @@
       <description>
         <![CDATA[
         <p>流动森林开播啦！</p>
-        <p><br></p>
-        <p><strong># 主播</strong></p>
-        <p>小林：科目二科目三一次过</p>
-        <p>小树：明天就要办离职</p>
-        <p><br></p>
-        <p><strong># 收听指南</strong></p>
-        <p>推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林” 收听节目。我们的订阅地址是：https://nomadforest.life/rss</p>
-        <p>拜拜～</p>
-        <p>拜～</p>
-        <p><br></p>
-        <p><strong># 本期节目使用的音乐</strong></p>
+
+        <h2>主播</h2>
+        <p>
+          小林：科目二科目三一次过<br />
+          小树：明天就要办离职
+        </p>
+
+        <h2>收听指南</strong></h2>
+        <p>
+          推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林”
+          收听节目。我们的订阅地址是：https://nomadforest.life/rss
+          <br /><br />
+          拜拜～<br /><br />
+          拜～
+        </p>
+
+        <h2>本期节目使用的音乐</strong></h2>
         <p>1. Walking all day, by Graham Coxon</p>
         ]]>
       </description>
