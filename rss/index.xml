@@ -4,8 +4,8 @@
   <channel>
     <title>流动森林</title>
     <itunes:subtitle>谢谢收听～</itunes:subtitle>
-    <link>http://nomadfroest.life</link>
-    <atom:link href="http://nomadforest.life/rss" rel="self" type="application/rss+xml"/>
+    <link>https://nomadforest.life</link>
+    <atom:link href="https://nomadforest.life/rss" rel="self" type="application/rss+xml"/>
     <description>去没风的地方。去做风吧，做被定义的风～</description>
     <language>zh-CN</language>
     <copyright>&#xA9; 2023 nomadforest.life</copyright>
@@ -23,21 +23,27 @@
       <description>
         <![CDATA[
         <p>流动森林开播啦！</p>
-        <p><br></p>
-        <p><strong># 主播</strong></p>
-        <p>小林：科目二科目三一次过</p>
-        <p>小树：明天就要办离职</p>
-        <p><br></p>
-        <p><strong># 收听指南</strong></p>
-        <p>推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林” 收听节目。我们的订阅地址是：http://nomadforest.life/rss</p>
-        <p>拜拜～</p>
-        <p>拜～</p>
-        <p><br></p>
-        <p><strong># 本期节目使用的音乐</strong></p>
+
+        <h3>主播</h3>
+        <p>
+          小林：科目二科目三一次过<br />
+          小树：明天就要办离职
+        </p>
+
+        <h3>收听指南</strong></h3>
+        <p>
+          推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林”
+          收听节目。我们的订阅地址是：https://nomadforest.life/rss
+          <br /><br />
+          拜拜～<br /><br />
+          拜～
+        </p>
+
+        <h3>本期节目使用的音乐</strong></h3>
         <p>1. Walking all day, by Graham Coxon</p>
         ]]>
       </description>
-      <link>http://nomadforest.life/001</link>
+      <link>https://nomadforest.life/001</link>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">001</guid>
       <author>小林、小树</author>
