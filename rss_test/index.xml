@@ -4,7 +4,7 @@
   <channel>
     <title>流动森林</title>
     <itunes:subtitle>谢谢收听～</itunes:subtitle>
-    <link>https://nomadfroest.life</link>
+    <link>https://nomadforest.life</link>
     <atom:link href="https://nomadforest.life/rss" rel="self" type="application/rss+xml"/>
     <description>去没风的地方。去做风吧，做被定义的风～</description>
     <language>zh-CN</language>
@@ -24,13 +24,13 @@
         <![CDATA[
         <p>流动森林开播啦！</p>
 
-        <h2>主播</h2>
+        <h3>主播</h3>
         <p>
           小林：科目二科目三一次过<br />
           小树：明天就要办离职
         </p>
 
-        <h2>收听指南</strong></h2>
+        <h3>收听指南</strong></h3>
         <p>
           推荐使用 PocketCast、Castro、Apple Podcast 等泛用型播客平台搜索 “流动森林”
           收听节目。我们的订阅地址是：https://nomadforest.life/rss
@@ -39,7 +39,7 @@
           拜～
         </p>
 
-        <h2>本期节目使用的音乐</strong></h2>
+        <h3>本期节目使用的音乐</strong></h3>
         <p>1. Walking all day, by Graham Coxon</p>
         ]]>
       </description>
