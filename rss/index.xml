@@ -10,7 +10,7 @@
     <language>zh-CN</language>
     <copyright>&#xA9; 2023 nomadforest.life</copyright>
     <itunes:category text="Society &amp; Culture"/>
-    <itunes:image href="http://nomad-forest.test.upcdn.net/000/itunes_image.jpg"/>
+    <itunes:image href="https://nomad-forest.oss-cn-shanghai.aliyuncs.com/main/itunes_image.jpg"/>
     <itunes:keywords>生活,旅行,无业游民</itunes:keywords>
     <itunes:explicit>no</itunes:explicit>
     <itunes:author>小林 &amp; 小树</itunes:author>
@@ -48,9 +48,9 @@
       <guid isPermaLink="false">001</guid>
       <author>小林、小树</author>
       <pubDate>Wed, 26 Apr 2023 17:00:00 +0800</pubDate>
-      <enclosure type="audio/mpeg" url="http://nomad-forest.test.upcdn.net/001/audio.mp3"/>
+      <enclosure type="audio/mpeg" url="https://nomad-forest.oss-cn-shanghai.aliyuncs.com/EP001/audio.mp3"/>
       <itunes:duration>63</itunes:duration>
-      <itunes:image href="http://nomad-forest.test.upcdn.net/000/itunes_image.jpg"/>
+      <itunes:image href="https://nomad-forest.oss-cn-shanghai.aliyuncs.com/main/itunes_image.jpg"/>
     </item>
   </channel>
 </rss>
